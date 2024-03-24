@@ -11,4 +11,6 @@ export class NuevoComponenteComponent  implements OnInit {
 
   ngOnInit() {}
 
+  alumnos: any = ["Juan", "Carlos", "Guillermo", "Brenda", "Angel"];
+
 }
